@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NQOnQJQ5HxW5uSriMVon2b1W1xhKHEcvJyd2PHmLsgSj4RTZB+HXE1vjPUaMuYK8bVQEbwugANIovAM1skxxAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qwerty\\Desktop\\программы и работы для шараги\\Курсы. SOLID СТРЕБКОВ\\CWGruznykhNicholas\\ConrolWorkGruznykh\\ConrolWorkGruznykh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qwerty\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

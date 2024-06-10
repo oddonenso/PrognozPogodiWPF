@@ -1,0 +1,14 @@
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\bin\Debug\net8.0\BD.deps.json
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\bin\Debug\net8.0\BD.runtimeconfig.json
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\bin\Debug\net8.0\BD.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\bin\Debug\net8.0\BD.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\BD.csproj.AssemblyReference.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\BD.AssemblyInfoInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\BD.AssemblyInfo.cs
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\BD.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\BD.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\refint\BD.dll
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\BD.pdb
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\BD.genruntimeconfig.cache
+C:\Users\qwerty\Desktop\программы и работы для шараги\Курсы. SOLID СТРЕБКОВ\CWGruznykhNicholas\BD\obj\Debug\net8.0\ref\BD.dll
